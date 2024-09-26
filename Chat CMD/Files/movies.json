@@ -1,33 +1,35 @@
 [
-    {
-      "title": "Inception",
-      "year": 2010,
-      "genre": "Sci-Fi",
-      "rating": 8.8
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "genre": "Action",
-      "rating": 8.7
-    },
-    {
-      "title": "Interstellar",
-      "year": 2014,
-      "genre": "Sci-Fi",
-      "rating": 8.6
-    },
-    {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": "Action",
-      "rating": 9.0
-    },
-    {
-      "title": "Fight Club",
-      "year": 1999,
-      "genre": "Drama",
-      "rating": 8.8
-    }
-  ]
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "Animation",
+    "rating": 8.3
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 7.9
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 8.6
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": "Animation",
+    "rating": 8.5
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "genre": "Animation",
+    "rating": 8.2
+  }
+]
+
+      
   
