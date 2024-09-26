@@ -1,0 +1,3 @@
+Este es un archivo de prueba.
+Puedes descargar este archivo utilizando el comando get desde el cliente.
+¡Buena suerte con tu proyecto de sockets!
